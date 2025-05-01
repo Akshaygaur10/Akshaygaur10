@@ -19,10 +19,10 @@
 
 - Power BI
 - SQL
-![Python]
-![Excel]
-![DAX]
-![Unix]
+- Python
+- Excel
+- DAX
+- Unix
 
 ---
 
