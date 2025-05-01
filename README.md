@@ -18,7 +18,7 @@
 ## 🔧 Tools & Technologies
 
 - Power BI
-![SQL]
+- SQL
 ![Python]
 ![Excel]
 ![DAX]
