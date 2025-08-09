@@ -7,7 +7,7 @@
 
 ## 📌 About Me
 
-- 💼 3.8+ years of experience in Data Analytics & Business Intelligence
+- 💼 4 years of experience in Data Analytics & Business Intelligence
 - 🛠️ Skilled in **Power BI**, **SQL**, **Python**, **DAX**, **Excel**, and **Unix scripting**
 - 🔄 Hands-on experience with **Supply Chain**, **Logistics**, and **Material Planning**
 - 🧠 Love working on **Data Visualization**, **Dashboards**, and **Analytics Solutions**
