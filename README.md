@@ -40,7 +40,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/akshaygaur)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akshay-gaur-2a286019b/?originalSubdomain=in)
 - ✉️ Email: akshay.gaur@example.com
 
 
